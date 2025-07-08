@@ -3,6 +3,10 @@ Heart Disease prediction model made for a university project
 
 # 🫀 Heart Disease Prediction using Machine Learning
 
+A machine learning pipeline that predicts the risk of heart attacks from health and lifestyle data,
+achieving up to 94.6% ROC-AUC using Random Forests.
+Built as a part of a university project to demonstrate ML, data preprocessing, and evaluation best practices
+
 This project predicts the likelihood of a heart attack using health and lifestyle factors. It uses:
 - Logistic Regression
 - Random Forest
