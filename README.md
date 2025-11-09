@@ -14,7 +14,7 @@ This project predicts the likelihood of a heart attack using health and lifestyl
 - SMOTE for class balancing
 
 ## 📊 Dataset
-- Source: `heart_2022.csv` ([insert source if public](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset))
+- Source: `heart_2022.csv` ([Source](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset))
 - Target: `HadHeartAttack`
 
 ## 🛠 Features Used
