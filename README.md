@@ -6,6 +6,14 @@ Heart Disease Risk Prediction 🫀
 
 A reproducible, leakage-aware machine learning pipeline for predicting cardiovascular disease risk with a focus on correctness, explainability, and decision trade-offs — not complexity.
 
+## Project Evolution
+
+This project started as a university assignment focused on exploratory data analysis ([see initial notebook](notebooks/01_exploratory_analysis.ipynb)). 
+
+The production pipeline was subsequently engineered to address real-world ML concerns: data leakage, class imbalance, reproducibility, and explainability.
+
+See [TRANSFORMATION_SUMMARY.md](TRANSFORMATION_SUMMARY.md) for details on improvements made.
+
 ## Overview
 
 This repository implements an **end-to-end ML workflow** on the Cardiovascular Diseases Risk Prediction dataset (≈309k samples, 18 input features + 1 target). The goal is to build a **trustworthy, interpretable system** designed with regulated/high-stakes contexts in mind.
