@@ -20,12 +20,12 @@ This repository implements an **end-to-end ML workflow** on the Cardiovascular D
 
 ### Key Principles
 
-✅ **No data leakage** — Train/validation/test splits before preprocessing  
-✅ **Meaningful baselines** — Dummy classifiers establish performance floor  
-✅ **Class imbalance handling** — SMOTE applied only to training data  
-✅ **Explainability** — Global & local SHAP interpretations  
-✅ **Reproducibility** — Fixed seeds, versioned artifacts, JSON snapshots  
-✅ **Threshold optimization** — Cost-aware decision point selection
+**No data leakage** — Train/validation/test splits before preprocessing  
+**Meaningful baselines** — Dummy classifiers establish performance floor  
+**Class imbalance handling** — SMOTE applied only to training data  
+**Explainability** — Global & local SHAP interpretations  
+**Reproducibility** — Fixed seeds, versioned artifacts, JSON snapshots  
+**Threshold optimization** — Cost-aware decision point selection
 
 ## Quick Start
 
