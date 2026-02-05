@@ -5,6 +5,7 @@ Heart Disease Risk Prediction 🫀
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 A reproducible, leakage-aware machine learning pipeline for predicting cardiovascular disease risk with a focus on correctness, explainability, and decision trade-offs — not complexity.
+Dataset Used: ([Source](https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset))
 
 ## Project Evolution
 
